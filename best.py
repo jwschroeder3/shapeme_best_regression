@@ -1,3 +1,5 @@
+# The following code was patterned heavily on the code in https://www.pymc.io/projects/examples/en/latest/case_studies/BEST.html
+
 import arviz as az
 from matplotlib import pyplot as plt
 import numpy as np
